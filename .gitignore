@@ -1,0 +1,5 @@
+.venv
+.env
+__pycache__
+pruebascraping-aa36e3162617.json
+tmp
